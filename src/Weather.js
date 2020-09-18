@@ -19,7 +19,7 @@ export default function Weather(props) {
   return (
     <Loader
       type="Puff"
-      color="black"
+      color="aqua"
       height={100}
       width={100}
       timeout={3000} //3 secs
